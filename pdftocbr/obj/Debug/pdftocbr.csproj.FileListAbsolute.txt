@@ -1,0 +1,15 @@
+F:\GitHub\pdf-to-cbr\pdftocbr\bin\Debug\x86\pdfium.dll
+F:\GitHub\pdf-to-cbr\pdftocbr\bin\Debug\pdftocbr.exe.config
+F:\GitHub\pdf-to-cbr\pdftocbr\bin\Debug\pdftocbr.exe
+F:\GitHub\pdf-to-cbr\pdftocbr\bin\Debug\pdftocbr.pdb
+F:\GitHub\pdf-to-cbr\pdftocbr\bin\Debug\PdfiumViewer.dll
+F:\GitHub\pdf-to-cbr\pdftocbr\bin\Debug\PdfiumViewer.xml
+F:\GitHub\pdf-to-cbr\pdftocbr\bin\Debug\nl\PdfiumViewer.resources.dll
+F:\GitHub\pdf-to-cbr\pdftocbr\obj\Debug\pdftocbr.csproj.AssemblyReference.cache
+F:\GitHub\pdf-to-cbr\pdftocbr\obj\Debug\pdftocbr.Properties.Resources.resources
+F:\GitHub\pdf-to-cbr\pdftocbr\obj\Debug\pdftocbr.csproj.GenerateResource.cache
+F:\GitHub\pdf-to-cbr\pdftocbr\obj\Debug\pdftocbr.csproj.CoreCompileInputs.cache
+F:\GitHub\pdf-to-cbr\pdftocbr\obj\Debug\pdftocbr.csproj.CopyComplete
+F:\GitHub\pdf-to-cbr\pdftocbr\obj\Debug\pdftocbr.exe
+F:\GitHub\pdf-to-cbr\pdftocbr\obj\Debug\pdftocbr.pdb
+F:\GitHub\pdf-to-cbr\pdftocbr\obj\Debug\pdftocbr.PdfToCbr.resources

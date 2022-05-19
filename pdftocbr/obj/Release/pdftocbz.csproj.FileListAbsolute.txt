@@ -1,0 +1,15 @@
+F:\GitHub\pdf-to-cbr\pdftocbr\bin\Release\x86\pdfium.dll
+F:\GitHub\pdf-to-cbr\pdftocbr\bin\Release\pdftocbr.exe.config
+F:\GitHub\pdf-to-cbr\pdftocbr\bin\Release\pdftocbr.exe
+F:\GitHub\pdf-to-cbr\pdftocbr\bin\Release\pdftocbr.pdb
+F:\GitHub\pdf-to-cbr\pdftocbr\bin\Release\PdfiumViewer.dll
+F:\GitHub\pdf-to-cbr\pdftocbr\bin\Release\PdfiumViewer.xml
+F:\GitHub\pdf-to-cbr\pdftocbr\bin\Release\nl\PdfiumViewer.resources.dll
+F:\GitHub\pdf-to-cbr\pdftocbr\obj\Release\pdftocbz.csproj.AssemblyReference.cache
+F:\GitHub\pdf-to-cbr\pdftocbr\obj\Release\pdftocbr.PdfToCbz.resources
+F:\GitHub\pdf-to-cbr\pdftocbr\obj\Release\pdftocbz.Properties.Resources.resources
+F:\GitHub\pdf-to-cbr\pdftocbr\obj\Release\pdftocbz.csproj.GenerateResource.cache
+F:\GitHub\pdf-to-cbr\pdftocbr\obj\Release\pdftocbz.csproj.CoreCompileInputs.cache
+F:\GitHub\pdf-to-cbr\pdftocbr\obj\Release\pdftocbz.csproj.CopyComplete
+F:\GitHub\pdf-to-cbr\pdftocbr\obj\Release\pdftocbr.exe
+F:\GitHub\pdf-to-cbr\pdftocbr\obj\Release\pdftocbr.pdb
